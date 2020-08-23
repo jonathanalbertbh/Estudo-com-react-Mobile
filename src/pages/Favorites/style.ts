@@ -1,0 +1,19 @@
+import { StyleSheet } from "react-native";
+
+const style =  StyleSheet.create({
+
+    container:{
+        flex: 1,
+        backgroundColor: '#F0F0F7'
+    },
+
+    teacherList:{
+       marginTop: -40, 
+       padding:16,
+       
+    }
+
+
+})
+
+export default style;
